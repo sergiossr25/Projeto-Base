@@ -1,0 +1,79 @@
+*{
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color:#17233D;
+    cursor: pointer;  /* (cursor pointer) é a mãosinha ao passar o mause */
+    margin-right: 32px; 
+}
+
+.button-header{
+    background: #6FBF44;
+    border-radius: 06px;
+    width: 124px;
+    height: 51px;
+    border: 1px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    color:#FFFFFF;
+    cursor: pointer;
+}
+
+.logo-image{
+    Width: 595px;
+    Height: 500px;
+    margin-top: 163px;
+    margin-left: 123px;
+    display: inline-block;
+}
+
+section{
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color:#161A49;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color:#4B505A;
+}
+
+p{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color:#848484;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.box{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    color:#6FBF44;
+    cursor: pointer;
+}
+    
+   
